@@ -222,11 +222,11 @@ https://templatemo.com/tm-588-ebook-landing
 
                                     <div class="row">
                                         <div class="col-lg-6 col-12 mb-3">
-                                            <img src="images/portrait-mature-smiling-authoress-sitting-desk.jpg" class="scrollspy-example-item-image img-fluid" alt="">
+                                            <img src="portrait-mature-smiling-authoress-sitting-desk.jpg" class="scrollspy-example-item-image img-fluid" alt="">
                                         </div>
 
                                         <div class="col-lg-6 col-12 mb-3">
-                                            <img src="images/businessman-sitting-by-table-cafe.jpg" class="scrollspy-example-item-image img-fluid" alt="">
+                                            <img src="businessman-sitting-by-table-cafe.jpg" class="scrollspy-example-item-image img-fluid" alt="">
                                         </div>
                                     </div>
 
@@ -263,7 +263,7 @@ https://templatemo.com/tm-588-ebook-landing
 
                                     <p>You are not allowed to redistribute this template ZIP file on any other template collection website. Please contact TemplateMo for more information.</p>
 
-                                    <img src="images/portrait-mature-smiling-authoress-sitting-desk.jpg" class="scrollspy-example-item-image img-fluid mb-3" alt="">
+                                    <img src="portrait-mature-smiling-authoress-sitting-desk.jpg" class="scrollspy-example-item-image img-fluid mb-3" alt="">
 
                                     <p>You may want to contact us for more information about this template.</p>
                                 </div>
@@ -325,7 +325,7 @@ https://templatemo.com/tm-588-ebook-landing
                         <div class="col-lg-4 col-12">
                             <div class="custom-block d-flex flex-wrap">
                                 <div class="custom-block-image-wrap d-flex flex-column">
-                                    <img src="images/avatar/portrait-beautiful-young-woman-standing-grey-wall.jpg" class="img-fluid avatar-image" alt="">
+                                    <img src="portrait-beautiful-young-woman-standing-grey-wall.jpg" class="img-fluid avatar-image" alt="">
 
                                     <div class="text-center mt-3">
                                         <span class="text-white">Sandy</span>
