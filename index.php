@@ -503,7 +503,7 @@ https://templatemo.com/tm-588-ebook-landing
         </main>
 
         <!-- JAVASCRIPT FILES -->
-
+<script
     document.getElementById('ebook-form').addEventListener('submit', function(event) {
     event.preventDefault(); // Prevent the default form submission
 
@@ -518,6 +518,8 @@ https://templatemo.com/tm-588-ebook-landing
         document.getElementById('success-alert').style.display = 'none';
     }, 5000); // Hide after 5 seconds
 });
+
+</script>
 
 
         
