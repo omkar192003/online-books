@@ -431,7 +431,7 @@ https://templatemo.com/tm-588-ebook-landing
                                     </div>
 
                                     <div class="input-group mb-4">
-                                        <input type="email" name="ebook-email" id="ebook-email" pattern="[^ @]*@[^ @]*" class="form-control" placeholder="your@company.com" aria-label="ebook-form-email" aria-describedby="basic-addon2" required="">
+                                        <input type="email" name="ebook-email" id="ebook-email" pattern="[^ @]*@[^ @]*" class="form-control" placeholder="your @gmail" aria-label="ebook-form-email" aria-describedby="basic-addon2" required="">
 
                                         <span class="input-group-text" id="basic-addon2">
                                             <i class="custom-form-icon bi-envelope"></i>
@@ -448,7 +448,7 @@ https://templatemo.com/tm-588-ebook-landing
                         <div class="col-lg-6 col-12">
                             <h6 class="mt-5">Say hi and talk to us</h6>
 
-                            <h2 class="mb-4">Contact</h2>
+                            <h2 class="mb-4">Contact Us</h2>
 
                             <p class="mb-3">
                                 <i class="bi-geo-alt me-2"></i>
