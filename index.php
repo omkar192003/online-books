@@ -411,92 +411,116 @@ https://templatemo.com/tm-588-ebook-landing
             </section>
 
 
-            <section class="contact-section section-padding" id="section_5">
-                <div class="container">
-                    <div class="row">
+           <section class="contact-section section-padding" id="section_5">
+    <div class="container">
+        <div class="row">
 
-                        <div class="col-lg-5 col-12 mx-auto">
-                            <form class="custom-form ebook-download-form bg-white shadow" action="#" method="post" role="form">
-                                <div class="text-center mb-5">
-                                    <h2 class="mb-1">Get your free ebook</h2>
-                                </div>
-
-                                <div class="ebook-download-form-body">
-                                    <div class="input-group mb-4">
-                                        <input type="text" name="ebook-form-name" id="ebook-form-name" class="form-control" aria-label="ebook-form-name" aria-describedby="basic-addon1" placeholder="Your Name" required>
-
-                                        <span class="input-group-text" id="basic-addon1">
-                                            <i class="custom-form-icon bi-person"></i>
-                                        </span>
-                                    </div>
-
-                                    <div class="input-group mb-4">
-                                        <input type="email" name="ebook-email" id="ebook-email" pattern="[^ @]*@[^ @]*" class="form-control" placeholder="your @gmail" aria-label="ebook-form-email" aria-describedby="basic-addon2" required="">
-
-                                        <span class="input-group-text" id="basic-addon2">
-                                            <i class="custom-form-icon bi-envelope"></i>
-                                        </span>
-                                    </div>
-
-                                    <div class="col-lg-8 col-md-10 col-8 mx-auto">
-                                        <button type="submit" class="form-control">Download ebook</button>
-                                    </div>
-                                </div>
-                            </form>
-                        </div>
-
-                        <div class="col-lg-6 col-12">
-                            <h6 class="mt-5">Say hi and talk to us</h6>
-
-                            <h2 class="mb-4">Contact Us</h2>
-
-                            <p class="mb-3">
-                                <i class="bi-geo-alt me-2"></i>
-                                London, United Kingdom
-                            </p>
-
-                            <p class="mb-2">
-                                <a href="tel: 010-020-0340" class="contact-link">
-                                    010-020-0340
-                                </a>
-                            </p>
-
-                            <p>
-                                <a href="mailto:info@company.com" class="contact-link">
-                                    info@company.com
-                                </a>
-                            </p>
-
-                            <h6 class="site-footer-title mt-5 mb-3">Social</h6>
-
-                            <ul class="social-icon mb-4">
-                                <li class="social-icon-item">
-                                    <a href="#" class="social-icon-link bi-instagram"></a>
-                                </li>
-
-                                <li class="social-icon-item">
-                                    <a href="#" class="social-icon-link bi-twitter"></a>
-                                </li>
-                                
-                                <li class="social-icon-item">
-                                    <a href="#" class="social-icon-link bi-facebook"></a>
-                                </li>
-
-                                <li class="social-icon-item">
-                                    <a href="#" class="social-icon-link bi-whatsapp"></a>
-                                </li>
-                            </ul>
-
-                            <p class="copyright-text">Copyright © 2048 ebook company
-                            <br><br><a rel="nofollow" href="https://templatemo.com" target="_blank">designed by templatemo</a></p>
-                        </div>
-
-                    </div>
+            <div class="col-lg-5 col-12 mx-auto">
+                <!-- Success alert message -->
+                <div id="success-alert" class="alert alert-success" role="alert" style="display: none;">
+                    Thank you! Your request has been submitted successfully.
                 </div>
-            </section>
+
+                <form class="custom-form ebook-download-form bg-white shadow" action="#" method="post" role="form" id="ebook-form">
+                    <div class="text-center mb-5">
+                        <h2 class="mb-1">Get your free ebook</h2>
+                    </div>
+
+                    <div class="ebook-download-form-body">
+                        <div class="input-group mb-4">
+                            <input type="text" name="ebook-form-name" id="ebook-form-name" class="form-control" aria-label="ebook-form-name" aria-describedby="basic-addon1" placeholder="Your Name" required>
+
+                            <span class="input-group-text" id="basic-addon1">
+                                <i class="custom-form-icon bi-person"></i>
+                            </span>
+                        </div>
+
+                        <div class="input-group mb-4">
+                            <input type="email" name="ebook-email" id="ebook-email" pattern="[^ @]*@[^ @]*" class="form-control" placeholder="your @gmail" aria-label="ebook-form-email" aria-describedby="basic-addon2" required="">
+
+                            <span class="input-group-text" id="basic-addon2">
+                                <i class="custom-form-icon bi-envelope"></i>
+                            </span>
+                        </div>
+
+                        <div class="col-lg-8 col-md-10 col-8 mx-auto">
+                            <button type="submit" class="form-control">Download ebook</button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+
+            <!-- Contact Us Section -->
+            <div class="col-lg-6 col-12">
+                <h6 class="mt-5">Say hi and talk to us</h6>
+                <h2 class="mb-4">Contact Us</h2>
+
+                <p class="mb-3">
+                    <i class="bi-geo-alt me-2"></i>
+                    London, United Kingdom
+                </p>
+
+                <p class="mb-2">
+                    <a href="tel: 010-020-0340" class="contact-link">
+                        010-020-0340
+                    </a>
+                </p>
+
+                <p>
+                    <a href="mailto:info@company.com" class="contact-link">
+                        info@company.com
+                    </a>
+                </p>
+
+                <h6 class="site-footer-title mt-5 mb-3">Social</h6>
+
+                <ul class="social-icon mb-4">
+                    <li class="social-icon-item">
+                        <a href="#" class="social-icon-link bi-instagram"></a>
+                    </li>
+
+                    <li class="social-icon-item">
+                        <a href="#" class="social-icon-link bi-twitter"></a>
+                    </li>
+
+                    <li class="social-icon-item">
+                        <a href="#" class="social-icon-link bi-facebook"></a>
+                    </li>
+
+                    <li class="social-icon-item">
+                        <a href="#" class="social-icon-link bi-whatsapp"></a>
+                    </li>
+                </ul>
+
+                <p class="copyright-text">Copyright © 2048 ebook company
+                <br><br><a rel="nofollow" href="https://templatemo.com" target="_blank">designed by templatemo</a></p>
+            </div>
+
+        </div>
+    </div>
+</section>
+
         </main>
 
         <!-- JAVASCRIPT FILES -->
+
+    document.getElementById('ebook-form').addEventListener('submit', function(event) {
+    event.preventDefault(); // Prevent the default form submission
+
+    // Show the success alert message
+    document.getElementById('success-alert').style.display = 'block';
+
+    // Optional: Clear the form fields after submission
+    document.getElementById('ebook-form').reset();
+
+    // Hide the alert after a few seconds (optional)
+    setTimeout(function() {
+        document.getElementById('success-alert').style.display = 'none';
+    }, 5000); // Hide after 5 seconds
+});
+
+
+        
         <script src="jquery.min.js"></script>
         <script src="bootstrap.bundle.min.js"></script>
         <script src="jquery.sticky.js"></script>
