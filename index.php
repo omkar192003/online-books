@@ -71,7 +71,7 @@ https://templatemo.com/tm-588-ebook-landing
                             </li>
 
                             <li class="nav-item">
-                                <a class="nav-link click-scroll" href="#section_5">Contact</a>
+                                <a class="nav-link click-scroll" href="#section_5">Contact Us</a>
                             </li>
                         </ul>
 
