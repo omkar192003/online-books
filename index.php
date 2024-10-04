@@ -102,7 +102,7 @@ https://templatemo.com/tm-588-ebook-landing
                         </div>
 
                         <div class="hero-image-wrap col-lg-6 col-12 mt-3 mt-lg-0">
-                            <img src="images/education-online-books.png" class="hero-image img-fluid" alt="education online books">
+                            <img src="education-online-books.png" class="hero-image img-fluid" alt="education online books">
                         </div>
 
                     </div>
