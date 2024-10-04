@@ -16,11 +16,11 @@
 
         <link href="https://fonts.googleapis.com/css2?family=Unbounded:wght@300;400;600;700&display=swap" rel="stylesheet">
 
-        <link href="css/bootstrap.min.css" rel="stylesheet">
+        <link href="bootstrap.min.css" rel="stylesheet">
 
-        <link href="css/bootstrap-icons.css" rel="stylesheet">
+        <link href="bootstrap-icons.css" rel="stylesheet">
 
-        <link href="css/templatemo-ebook-landing.css" rel="stylesheet">
+        <link href="templatemo-ebook-landing.css" rel="stylesheet">
 <!--
 
 TemplateMo 588 ebook landing
