@@ -74,6 +74,9 @@ https://templatemo.com/tm-588-ebook-landing
                                 <a class="nav-link click-scroll" href="#section_5">Contact Us</a>
                             </li>
                         </ul>
+                         <li class="nav-item">
+                            <a class="nav-link click-scroll" href="#chatbot">Chat with Us</a>
+                        </li>
 
                         <div class="d-none d-lg-block">
                             <a href="#" class="btn custom-btn custom-border-btn btn-naira btn-inverted">
@@ -409,6 +412,13 @@ https://templatemo.com/tm-588-ebook-landing
                     </div>
                 </div>
             </section>
+
+                  <!--Chat bot section starts-->
+        <section class="textOfChatBot" id="chatbot">
+            <h3 class="lengthheading">If you have any Queries <span>please type your queries below </span>to have them
+                answered by our chatBot</h3>
+        </section>
+        <!--Chat bot section starts-->
 
 
           <section class="contact-section section-padding" id="section_5">
