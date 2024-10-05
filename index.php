@@ -73,10 +73,11 @@ https://templatemo.com/tm-588-ebook-landing
                             <li class="nav-item">
                                 <a class="nav-link click-scroll" href="#section_5">Contact Us</a>
                             </li>
-                        </ul>
-                         <li class="nav-item">
+                             <li class="nav-item">
                             <a class="nav-link click-scroll" href="#chatbot">Chat with Us</a>
                         </li>
+                        </ul>
+                        
 
                         <div class="d-none d-lg-block">
                             <a href="#" class="btn custom-btn custom-border-btn btn-naira btn-inverted">
