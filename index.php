@@ -414,12 +414,15 @@ https://templatemo.com/tm-588-ebook-landing
                 </div>
             </section>
 
-                  <!--Chat bot section starts-->
+                         <!--Chat bot section starts-->
         <section class="textOfChatBot" id="chatbot">
             <h3 class="lengthheading">If you have any Queries <span>please type your queries below </span>to have them
                 answered by our chatBot</h3>
         </section>
         <!--Chat bot section starts-->
+        <iframe
+            src='https://webchat.botframework.com/embed/SaheliLang-bot?s=y6rXHBqVo3E.__uzJy3Z_FXP8ZGiTgRDIm9U6j3inyOOsOVWUgN6Oqk'
+            style='min-width: 400px; width: 100%; min-height: 500px;'></iframe>
 
 
           <section class="contact-section section-padding" id="section_5">
