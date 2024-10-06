@@ -62,5 +62,5 @@ jobs:
         with:
           app-name: 'onlinebook'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_47749A244113454C8503611226B35E55 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_800C5D8CA9C94BA7888761E462DCF7CA }}
           package: .
