@@ -96,22 +96,48 @@ https://templatemo.com/tm-588-ebook-landing
         </nav>
 
 
+              <section class="hero-section d-flex justify-content-center align-items-center" id="section_1">
+            <div class="container">
+                <div class="row">
+
+                    <div class="col-lg-6 col-12 mb-5 pb-5 pb-lg-0 mb-lg-0">
+
+                        <h6>Introducing ebook</h6>
+
+                        <h1 class="text-white mb-4">ebook landing page for professionals</h1>
+
+                        <a href="#section_2" class="btn custom-btn smoothscroll me-3">Discover More</a>
+
+                        <a href="#section_3" class="link link--kale smoothscroll">Meet the Author</a>
+                    </div>
+
+                    <div class="hero-image-wrap col-lg-6 col-12 mt-3 mt-lg-0">
+                        <img src="images/education-online-books.png" class="hero-image img-fluid"
+                            alt="education online books">
+                    </div>
+
+                </div>
+            </div>
+        </section>
+
+
+        
         <section class="featured-section">
             <div class="container">
                 <div class="row">
 
                     <div class="col-lg-8 col-12">
                         <div class="avatar-group d-flex flex-wrap align-items-center">
-                            <img src="portrait-beautiful-young-woman-standing-grey-wall.jpg"
+                            <img src="images/avatar/portrait-beautiful-young-woman-standing-grey-wall.jpg"
                                 class="img-fluid avatar-image" alt="">
 
-                            <img src="portrait-young-redhead-bearded-male.jpg"
+                            <img src="images/avatar/portrait-young-redhead-bearded-male.jpg"
                                 class="img-fluid avatar-image avatar-image-left" alt="">
 
-                            <img src="pretty-blonde-woman.jpg"
+                            <img src="images/avatar/pretty-blonde-woman.jpg"
                                 class="img-fluid avatar-image avatar-image-left" alt="">
 
-                            <img src="studio-portrait-emotional-happy-funny-smiling-boyfriend.jpg"
+                            <img src="images/avatar/studio-portrait-emotional-happy-funny-smiling-boyfriend.jpg"
                                 class="img-fluid avatar-image avatar-image-left" alt="">
 
                             <div class="reviews-group mt-3 mt-lg-0">
@@ -130,15 +156,17 @@ https://templatemo.com/tm-588-ebook-landing
                 </div>
             </div>
         </section>
+
+        
         <section class="py-lg-5"></section>
 
-
+        
         <section class="book-section section-padding" id="section_2">
             <div class="container">
                 <div class="row">
 
                     <div class="col-lg-6 col-12">
-                        <img src="tablet-screen-contents.jpg" class="img-fluid" alt="">
+                        <img src="images/tablet-screen-contents.jpg" class="img-fluid" alt="">
                     </div>
 
                     <div class="col-lg-6 col-12">
@@ -160,7 +188,6 @@ https://templatemo.com/tm-588-ebook-landing
                 </div>
             </div>
         </section>
-
 
         <section>
             <div class="container">
