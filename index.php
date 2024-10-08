@@ -112,7 +112,7 @@ https://templatemo.com/tm-588-ebook-landing
                     </div>
 
                     <div class="hero-image-wrap col-lg-6 col-12 mt-3 mt-lg-0">
-                        <img src="images/education-online-books.png" class="hero-image img-fluid"
+                        <img src="education-online-books.png" class="hero-image img-fluid"
                             alt="education online books">
                     </div>
 
@@ -128,16 +128,16 @@ https://templatemo.com/tm-588-ebook-landing
 
                     <div class="col-lg-8 col-12">
                         <div class="avatar-group d-flex flex-wrap align-items-center">
-                            <img src="images/avatar/portrait-beautiful-young-woman-standing-grey-wall.jpg"
+                            <img src="portrait-beautiful-young-woman-standing-grey-wall.jpg"
                                 class="img-fluid avatar-image" alt="">
 
-                            <img src="images/avatar/portrait-young-redhead-bearded-male.jpg"
+                            <img src="portrait-young-redhead-bearded-male.jpg"
                                 class="img-fluid avatar-image avatar-image-left" alt="">
 
-                            <img src="images/avatar/pretty-blonde-woman.jpg"
+                            <img src="pretty-blonde-woman.jpg"
                                 class="img-fluid avatar-image avatar-image-left" alt="">
 
-                            <img src="images/avatar/studio-portrait-emotional-happy-funny-smiling-boyfriend.jpg"
+                            <img src="studio-portrait-emotional-happy-funny-smiling-boyfriend.jpg"
                                 class="img-fluid avatar-image avatar-image-left" alt="">
 
                             <div class="reviews-group mt-3 mt-lg-0">
@@ -166,7 +166,7 @@ https://templatemo.com/tm-588-ebook-landing
                 <div class="row">
 
                     <div class="col-lg-6 col-12">
-                        <img src="images/tablet-screen-contents.jpg" class="img-fluid" alt="">
+                        <img src="tablet-screen-contents.jpg" class="img-fluid" alt="">
                     </div>
 
                     <div class="col-lg-6 col-12">
