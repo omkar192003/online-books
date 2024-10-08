@@ -96,37 +96,33 @@ https://templatemo.com/tm-588-ebook-landing
         </nav>
 
 
-       <section class="book-section section-padding" id="section_2">
-    <div class="container">
-        <div class="row">
+      <section class="book-section section-padding" id="section_2">
+            <div class="container">
+                <div class="row">
 
-            <div class="col-lg-6 col-12">
-                <img src="tablet-screen-contents.jpg" class="img-fluid" alt="Book Cover Image">
-            </div>
+                    <div class="col-lg-6 col-12">
+                        <img src="tablet-screen-contents.jpg" class="img-fluid" alt="">
+                    </div>
 
-            <div class="col-lg-6 col-12">
-                <div class="book-section-info">
-                    <h6>Modern &amp; Creative</h6>
+                    <div class="col-lg-6 col-12">
+                        <div class="book-section-info">
+                            <h6>Modern &amp; Creative</h6>
 
-                    <h2 class="mb-4">About The Book</h2>
 
-                    <p><strong>Title:</strong> "The Future of Web Development"</p>
+                            <h2 class="mb-4">About The Book</h2>
 
-                    <p><strong>Author:</strong> John Doe</p>
+                            <p>Credit goes to <a rel="nofollow" href="https://freepik.com" target="_blank">FreePik</a>
+                                for images used in this ebook landing page template. You may browse FreePik to download
+                                more free images for your website.</p>
 
-                    <p>This ebook explores the cutting-edge trends and tools shaping the future of web development. From new frameworks like React and Vue.js to the rising importance of UI/UX design, this comprehensive guide offers valuable insights for developers of all levels. Whether you're a beginner or a seasoned professional, you'll learn how to stay ahead in the rapidly evolving tech landscape.</p>
+                            <p>TemplateMo is one of the best websites to download free CSS templates for any purpose.
+                                This is an ebook landing page template using Bootstrap 5 CSS layout.</p>
+                        </div>
+                    </div>
 
-                    <p>In this book, you will find tips on optimizing your websites for performance, a deep dive into web security best practices, and how to leverage cloud technologies like Azure and AWS to build scalable web applications.</p>
-
-                    <p>Credit goes to <a rel="nofollow" href="https://freepik.com" target="_blank">FreePik</a> for images used in this ebook landing page template. You may browse FreePik to download more free images for your website.</p>
-
-                    <p>TemplateMo is one of the best websites to download free CSS templates for any purpose. This is an ebook landing page template using Bootstrap 5 CSS layout.</p>
                 </div>
             </div>
-
-        </div>
-    </div>
-</section>
+        </section>
 
 
 
