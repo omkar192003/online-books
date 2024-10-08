@@ -17,11 +17,11 @@
 
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 
-    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="bootstrap.min.css" rel="stylesheet">
 
-    <link href="css/bootstrap-icons.css" rel="stylesheet">
+    <link href="bootstrap-icons.css" rel="stylesheet">
 
-    <link href="css/templatemo-ebook-landing.css" rel="stylesheet">
+    <link href="templatemo-ebook-landing.css" rel="stylesheet">
     <!--
 
 TemplateMo 588 ebook landing
@@ -108,7 +108,7 @@ https://templatemo.com/tm-588-ebook-landing
                     </div>
 
                     <div class="hero-image-wrap col-lg-6 col-12 mt-3 mt-lg-0">
-                        <img src="images/education-online-books.png" class="hero-image img-fluid"
+                        <img src="education-online-books.png" class="hero-image img-fluid"
                             alt="education online books">
                     </div>
 
@@ -123,7 +123,7 @@ https://templatemo.com/tm-588-ebook-landing
 
                     <div class="col-lg-8 col-12">
                         <div class="avatar-group d-flex flex-wrap align-items-center">
-                            <img src="images/avatar/portrait-beautiful-young-woman-standing-grey-wall.jpg"
+                            <img src="avatar/portrait-beautiful-young-woman-standing-grey-wall.jpg"
                                 class="img-fluid avatar-image" alt="">
 
                             <img src="images/avatar/portrait-young-redhead-bearded-male.jpg"
@@ -161,7 +161,7 @@ https://templatemo.com/tm-588-ebook-landing
                 <div class="row">
 
                     <div class="col-lg-6 col-12">
-                        <img src="images/tablet-screen-contents.jpg" class="img-fluid" alt="">
+                        <img src="tablet-screen-contents.jpg" class="img-fluid" alt="">
                     </div>
 
                     <div class="col-lg-6 col-12">
@@ -246,12 +246,12 @@ https://templatemo.com/tm-588-ebook-landing
 
                                 <div class="row">
                                     <div class="col-lg-6 col-12 mb-3">
-                                        <img src="images/portrait-mature-smiling-authoress-sitting-desk.jpg"
+                                        <img src="portrait-mature-smiling-authoress-sitting-desk.jpg"
                                             class="scrollspy-example-item-image img-fluid" alt="">
                                     </div>
 
                                     <div class="col-lg-6 col-12 mb-3">
-                                        <img src="images/businessman-sitting-by-table-cafe.jpg"
+                                        <img src="businessman-sitting-by-table-cafe.jpg"
                                             class="scrollspy-example-item-image img-fluid" alt="">
                                     </div>
                                 </div>
@@ -274,7 +274,7 @@ https://templatemo.com/tm-588-ebook-landing
 
                                 <div class="row align-items-center">
                                     <div class="col-lg-6 col-12">
-                                        <img src="images/tablet-screen-contents.jpg" class="img-fluid" alt="">
+                                        <img src="tablet-screen-contents.jpg" class="img-fluid" alt="">
                                     </div>
 
                                     <div class="col-lg-6 col-12">
@@ -298,7 +298,7 @@ https://templatemo.com/tm-588-ebook-landing
                                 <p>You are not allowed to redistribute this template ZIP file on any other template
                                     collection website. Please contact TemplateMo for more information.</p>
 
-                                <img src="images/portrait-mature-smiling-authoress-sitting-desk.jpg"
+                                <img src="portrait-mature-smiling-authoress-sitting-desk.jpg"
                                     class="scrollspy-example-item-image img-fluid mb-3" alt="">
 
                                 <p>You may want to contact us for more information about this template.</p>
@@ -335,7 +335,7 @@ https://templatemo.com/tm-588-ebook-landing
                 <div class="row">
 
                     <div class="col-lg-6 col-12">
-                        <img src="images/portrait-mature-smiling-authoress-sitting-desk.jpg"
+                        <img src="portrait-mature-smiling-authoress-sitting-desk.jpg"
                             class="author-image img-fluid" alt="">
                     </div>
 
@@ -369,7 +369,7 @@ https://templatemo.com/tm-588-ebook-landing
                     <div class="col-lg-4 col-12">
                         <div class="custom-block d-flex flex-wrap">
                             <div class="custom-block-image-wrap d-flex flex-column">
-                                <img src="images/avatar/portrait-beautiful-young-woman-standing-grey-wall.jpg"
+                                <img src="avatar/portrait-beautiful-young-woman-standing-grey-wall.jpg"
                                     class="img-fluid avatar-image" alt="">
 
                                 <div class="text-center mt-3">
@@ -399,7 +399,7 @@ https://templatemo.com/tm-588-ebook-landing
                     <div class="col-lg-4 col-12 my-5 my-lg-0">
                         <div class="custom-block d-flex flex-wrap">
                             <div class="custom-block-image-wrap d-flex flex-column">
-                                <img src="images/avatar/portrait-young-redhead-bearded-male.jpg"
+                                <img src="avatar/portrait-young-redhead-bearded-male.jpg"
                                     class="img-fluid avatar-image avatar-image-left" alt="">
 
                                 <div class="text-center mt-3">
@@ -429,7 +429,7 @@ https://templatemo.com/tm-588-ebook-landing
                     <div class="col-lg-4 col-12">
                         <div class="custom-block d-flex flex-wrap">
                             <div class="custom-block-image-wrap d-flex flex-column">
-                                <img src="images/avatar/pretty-blonde-woman.jpg" class="img-fluid avatar-image" alt="">
+                                <img src="pretty-blonde-woman.jpg" class="img-fluid avatar-image" alt="">
 
                                 <div class="text-center mt-3">
                                     <span class="text-white">Candy</span>
@@ -564,11 +564,11 @@ https://templatemo.com/tm-588-ebook-landing
     </main>
 
     <!-- JAVASCRIPT FILES -->
-    <script src="js/jquery.min.js"></script>
-    <script src="js/bootstrap.bundle.min.js"></script>
-    <script src="js/jquery.sticky.js"></script>
-    <script src="js/click-scroll.js"></script>
-    <script src="js/custom.js"></script>
+    <script src="jquery.min.js"></script>
+    <script src="bootstrap.bundle.min.js"></script>
+    <script src="jquery.sticky.js"></script>
+    <script src="click-scroll.js"></script>
+    <script src="custom.js"></script>
 
 </body>
 
