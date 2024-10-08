@@ -123,7 +123,7 @@ https://templatemo.com/tm-588-ebook-landing
 
                     <div class="col-lg-8 col-12">
                         <div class="avatar-group d-flex flex-wrap align-items-center">
-                            <img src="avatar/portrait-beautiful-young-woman-standing-grey-wall.jpg"
+                            <img src="portrait-beautiful-young-woman-standing-grey-wall.jpg"
                                 class="img-fluid avatar-image" alt="">
 
                             <img src="images/avatar/portrait-young-redhead-bearded-male.jpg"
@@ -369,7 +369,7 @@ https://templatemo.com/tm-588-ebook-landing
                     <div class="col-lg-4 col-12">
                         <div class="custom-block d-flex flex-wrap">
                             <div class="custom-block-image-wrap d-flex flex-column">
-                                <img src="avatar/portrait-beautiful-young-woman-standing-grey-wall.jpg"
+                                <img src="portrait-beautiful-young-woman-standing-grey-wall.jpg"
                                     class="img-fluid avatar-image" alt="">
 
                                 <div class="text-center mt-3">
