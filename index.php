@@ -73,7 +73,7 @@ https://templatemo.com/tm-588-ebook-landing
                         </li>
 
                         <li class="nav-item">
-                            <a class="nav-link click-scroll" href="contactus.html">Contact Us</a>
+                            <a class="nav-link click-scroll" href="contactus.php">Contact Us</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link click-scroll" href="#chatbot">Chat with Us</a>
