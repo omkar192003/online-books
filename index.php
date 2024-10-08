@@ -82,9 +82,9 @@ https://templatemo.com/tm-588-ebook-landing
                     </ul>
 
                     <div class="d-none d-lg-block">
-                        <a href="#" class="btn custom-btn custom-border-btn btn-naira btn-inverted">
+                        <a href="login.php" class="btn custom-btn custom-border-btn btn-naira btn-inverted">
                             <i class="btn-icon bi-cloud-download"></i>
-                            <span>Download</span><!-- duplicated above one for mobile -->
+                            <span>Login Now</span><!-- duplicated above one for mobile -->
                         </a>
                     </div>
                 </div>
