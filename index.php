@@ -73,13 +73,17 @@ https://templatemo.com/tm-588-ebook-landing
                         </li>
 
                         <li class="nav-item">
-                            <a class="nav-link click-scroll" href="contactus.php">Contact Us</a>
-                        </li>
-                        <li class="nav-item">
                             <a class="nav-link click-scroll" href="#chatbot">Chat with Us</a>
                         </li>
 
                     </ul>
+
+                     <div class="d-none d-lg-block">
+                        <a href="login.php" class="btn custom-btn custom-border-btn btn-naira btn-inverted">
+                            <i class="btn-icon bi-cloud-download"></i>
+                            <span>Contact Us</span><!-- duplicated above one for mobile -->
+                        </a>
+                    </div>
 
                     <div class="d-none d-lg-block">
                         <a href="login.php" class="btn custom-btn custom-border-btn btn-naira btn-inverted">
