@@ -6,36 +6,47 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $subject = htmlspecialchars(trim($_POST['subject']));
     $message = htmlspecialchars(trim($_POST['message']));
 
-    // Database connection
-    $servername = "localhost"; // Change if necessary
-    $username = "root"; // Your MySQL username
-    $password = ""; // Your MySQL password
-    $dbname = "ebook_database"; // Your database name
+    // Azure SQL Database connection details
+    $servername = "tcp:onilnebooksseerver.database.windows.net,1433";
+    $username = "azure";
+    $password = "Book@123";
+    $dbname = "ebook_database";
 
-    // Create connection
-    $conn = new mysqli($servername, $username, $password, $dbname);
+    // Connection options
+    $connectionOptions = array(
+        "Database" => $dbname,
+        "Uid" => $username,
+        "PWD" => $password,
+        "Encrypt" => true,
+        "TrustServerCertificate" => false
+    );
+
+    // Establish connection
+    $conn = sqlsrv_connect($servername, $connectionOptions);
 
     // Check connection
-    if ($conn->connect_error) {
-        die("Connection failed: " . $conn->connect_error);
+    if ($conn === false) {
+        die(print_r(sqlsrv_errors(), true));
     }
 
-    // Prepare and bind
-    $stmt = $conn->prepare("INSERT INTO contact_messages (name, email, subject, message) VALUES (?, ?, ?, ?)");
-    $stmt->bind_param("ssss", $name, $email, $subject, $message);
+    // Prepare the SQL query with placeholders
+    $sql = "INSERT INTO contact_messages (name, email, subject, message) VALUES (?, ?, ?, ?)";
+    $params = array($name, $email, $subject, $message);
 
-    // Execute the statement
-    if ($stmt->execute()) {
+    // Execute the prepared query
+    $stmt = sqlsrv_query($conn, $sql, $params);
+
+    if ($stmt) {
         echo "Message sent successfully!";
     } else {
-        echo "Error: " . $stmt->error;
+        echo "Error: ";
+        print_r(sqlsrv_errors());
     }
 
-    // Close the statement and connection
-    $stmt->close();
-    $conn->close();
+    // Free statement and close connection
+    sqlsrv_free_stmt($stmt);
+    sqlsrv_close($conn);
 } else {
     echo "Invalid request method.";
 }
-
 ?>
