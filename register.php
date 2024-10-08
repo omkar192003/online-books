@@ -9,7 +9,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $servername = "tcp:onilnebooksseerver.database.windows.net,1433";
     $username = "azure";
     $dbPassword = "Book@123";
-    $dbname = "ebook_database";
+    $dbname = "booksdb";
 
     // Connection options
     $connectionOptions = array(
