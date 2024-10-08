@@ -96,29 +96,38 @@ https://templatemo.com/tm-588-ebook-landing
         </nav>
 
 
-        <section class="hero-section d-flex justify-content-center align-items-center" id="section_1">
-            <div class="container">
-                <div class="row">
+       <section class="book-section section-padding" id="section_2">
+    <div class="container">
+        <div class="row">
 
-                    <div class="col-lg-6 col-12 mb-5 pb-5 pb-lg-0 mb-lg-0">
+            <div class="col-lg-6 col-12">
+                <img src="tablet-screen-contents.jpg" class="img-fluid" alt="Book Cover Image">
+            </div>
 
-                        <h6>Introducing ebook</h6>
+            <div class="col-lg-6 col-12">
+                <div class="book-section-info">
+                    <h6>Modern &amp; Creative</h6>
 
-                        <h1 class="text-white mb-4">ebook landing page for professionals</h1>
+                    <h2 class="mb-4">About The Book</h2>
 
-                        <a href="#section_2" class="btn custom-btn smoothscroll me-3">Discover More</a>
+                    <p><strong>Title:</strong> "The Future of Web Development"</p>
 
-                        <a href="#section_3" class="link link--kale smoothscroll">Meet the Author</a>
-                    </div>
+                    <p><strong>Author:</strong> John Doe</p>
 
-                    <div class="hero-image-wrap col-lg-6 col-12 mt-3 mt-lg-0">
-                        <img src="education-online-books.png" class="hero-image img-fluid"
-                            alt="education online books">
-                    </div>
+                    <p>This ebook explores the cutting-edge trends and tools shaping the future of web development. From new frameworks like React and Vue.js to the rising importance of UI/UX design, this comprehensive guide offers valuable insights for developers of all levels. Whether you're a beginner or a seasoned professional, you'll learn how to stay ahead in the rapidly evolving tech landscape.</p>
 
+                    <p>In this book, you will find tips on optimizing your websites for performance, a deep dive into web security best practices, and how to leverage cloud technologies like Azure and AWS to build scalable web applications.</p>
+
+                    <p>Credit goes to <a rel="nofollow" href="https://freepik.com" target="_blank">FreePik</a> for images used in this ebook landing page template. You may browse FreePik to download more free images for your website.</p>
+
+                    <p>TemplateMo is one of the best websites to download free CSS templates for any purpose. This is an ebook landing page template using Bootstrap 5 CSS layout.</p>
                 </div>
             </div>
-        </section>
+
+        </div>
+    </div>
+</section>
+
 
 
         <section class="featured-section">
