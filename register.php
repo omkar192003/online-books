@@ -30,9 +30,10 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $hashedPassword = password_hash($password, PASSWORD_DEFAULT);
 
     // Insert user into the database
-    $sql = "INSERT INTO users (name, email, password) VALUES (?, ?, ?)";
-    $params = array($name, $email, $hashedPassword);
-    $stmt = sqlsrv_query($conn, $sql, $params);
+   // SQL to insert user
+$sql = "INSERT INTO loginusers (name, email, password) VALUES (?, ?, ?)";
+$params = array($name, $email, $hashedPassword);
+$stmt = sqlsrv_query($conn, $sql, $params);
 
     if ($stmt) {
         echo "Registration successful!";
