@@ -28,7 +28,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     }
 
     // Query the user
-    $sql = "SELECT * FROM users WHERE email = ?";
+    $sql = "SELECT * FROM loginusers WHERE email = ?";
     $params = array($email);
     $stmt = sqlsrv_query($conn, $sql, $params);
     $user = sqlsrv_fetch_array($stmt, SQLSRV_FETCH_ASSOC);
