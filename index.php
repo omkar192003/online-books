@@ -130,13 +130,13 @@ https://templatemo.com/tm-588-ebook-landing
                             <img src="portrait-beautiful-young-woman-standing-grey-wall.jpg"
                                 class="img-fluid avatar-image" alt="">
 
-                            <img src="images/avatar/portrait-young-redhead-bearded-male.jpg"
+                            <img src="portrait-young-redhead-bearded-male.jpg"
                                 class="img-fluid avatar-image avatar-image-left" alt="">
 
-                            <img src="images/avatar/pretty-blonde-woman.jpg"
+                            <img src="pretty-blonde-woman.jpg"
                                 class="img-fluid avatar-image avatar-image-left" alt="">
 
-                            <img src="images/avatar/studio-portrait-emotional-happy-funny-smiling-boyfriend.jpg"
+                            <img src="studio-portrait-emotional-happy-funny-smiling-boyfriend.jpg"
                                 class="img-fluid avatar-image avatar-image-left" alt="">
 
                             <div class="reviews-group mt-3 mt-lg-0">
@@ -403,7 +403,7 @@ https://templatemo.com/tm-588-ebook-landing
                     <div class="col-lg-4 col-12 my-5 my-lg-0">
                         <div class="custom-block d-flex flex-wrap">
                             <div class="custom-block-image-wrap d-flex flex-column">
-                                <img src="avatar/portrait-young-redhead-bearded-male.jpg"
+                                <img src="portrait-young-redhead-bearded-male.jpg"
                                     class="img-fluid avatar-image avatar-image-left" alt="">
 
                                 <div class="text-center mt-3">
