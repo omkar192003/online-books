@@ -478,8 +478,7 @@ https://templatemo.com/tm-588-ebook-landing
 
                     <div class="col-lg-5 col-12 mx-auto">
                     <form class="custom-form ebook-download-form bg-white shadow" action="submit_form.php" method="post" role="form">
-    <div class="text-center mb-5">
-        <h2 class="mb-1">Get your free ebook</h2>
+    <input type="hidden" name="redirect_after_registration" value="ebook_download.php">>Get your free ebook</h2>
     </div>
 
     <div class="ebook-download-form-body">
