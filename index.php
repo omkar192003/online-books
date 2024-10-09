@@ -10,6 +10,40 @@
 
     <title>ebook landing page template</title>
 
+    <style>
+        .book-grid {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            grid-gap: 20px;
+            padding: 20px;
+        }
+        .book-item {
+            text-align: center;
+            border: 1px solid #ddd;
+            border-radius: 10px;
+            overflow: hidden;
+            padding: 10px;
+            background-color: #f9f9f9;
+        }
+        .book-cover {
+            width: 150px;
+            height: 200px;
+            background-size: cover;
+            background-position: center;
+            margin: 0 auto 10px;
+            border-radius: 8px;
+        }
+        h3 {
+            font-size: 1.1em;
+            color: #333;
+            margin-bottom: 0;
+        }
+        a {
+            text-decoration: none;
+            color: inherit;
+        }
+    </style>
+
     <script src="https://kit.fontawesome.com/39f2b34126.js" crossorigin="anonymous"></script>
 
     <!-- CSS FILES -->
