@@ -359,6 +359,57 @@ https://templatemo.com/tm-588-ebook-landing
             </div>
         </section>
 
+        <div class="book-grid">
+            <div class="book-item">
+                <a href="https://drive.google.com/uc?export=download&id=1LrYnW14A-sXHHmeMq-W1OQ-J77qSewtj" target="_blank">
+                    <div class="book-cover" style="background-image: url('book1.jpg');"></div>
+                    <h3>Book Title 1</h3>
+                </a>
+            </div>
+            <div class="book-item">
+                <a href="https://drive.google.com/uc?export=download&id=1GyOWw6ZaNGtPv5G9DBVvRhp4dJcJAhGr" target="_blank">
+                    <div class="book-cover" style="background-image: url('book2.jpg');"></div>
+                    <h3>Book Title 2</h3>
+                </a>
+            </div>
+             <div class="book-item">
+                <a href="https://drive.google.com/uc?export=download&id=17-KFjiGyHi5tk7cTw9G4sL-GZGhxA5aC" target="_blank">
+                    <div class="book-cover" style="background-image: url('book3.jpg');"></div>
+                    <h3>Book Title 1</h3>
+                </a>
+            </div>
+            <div class="book-item">
+                <a href="https://drive.google.com/uc?export=download&id=13-TeFMVvHIcBls7EfGKC8aP5sAOV-mjl" target="_blank">
+                    <div class="book-cover" style="background-image: url('book4.jpg');"></div>
+                    <h3>Book Title 2</h3>
+                </a>
+            </div>
+            <div class="book-item">
+                <a href="https://drive.google.com/uc?export=download&id=1WuI7vZDjKC8fvEx5Kwo9E4K5sXqUBLKh" target="_blank">
+                    <div class="book-cover" style="background-image: url('book5.jpg');"></div>
+                    <h3>Book Title 1</h3>
+                </a>
+            </div>
+            <div class="book-item">
+                <a href="https://drive.google.com/uc?export=download&id=1564cdgHNqySOgvcaFmG8eTkfDMTL1zMo" target="_blank">
+                    <div class="book-cover" style="background-image: url('book6.jpg');"></div>
+                    <h3>Book Title 2</h3>
+                </a>
+            </div>
+             <div class="book-item">
+                <a href="https://drive.google.com/uc?export=download&id=1_CrX4Kz5hb6Jf-ax26-d-ftkeIqgfphd" target="_blank">
+                    <div class="book-cover" style="background-image: url('book7.jpg');"></div>
+                    <h3>Book Title 1</h3>
+                </a>
+            </div>
+            <div class="book-item">
+                <a href="https://drive.google.com/uc?export=download&id=1xVq6HRHYLjglSyeYf6y5akIEZXTJ7VAZ" target="_blank">
+                    <div class="book-cover" style="background-image: url('book8.jpg');"></div>
+                    <h3>Book Title 2</h3>
+                </a>
+            </div>
+           
+        </div>
 
         <section class="reviews-section section-padding" id="section_4">
             <div class="container">
