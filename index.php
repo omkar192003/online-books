@@ -397,7 +397,7 @@ https://templatemo.com/tm-588-ebook-landing
             <div class="book-item">
                 <a href="https://drive.google.com/uc?export=download&id=1LrYnW14A-sXHHmeMq-W1OQ-J77qSewtj" target="_blank">
                     <div class="book-cover" style="background-image: url('book1.jpg');"></div>
-                    <h3>The Psychology Of Money</h3>
+                    <h3>The Psychology<br>Of Money</h3>
                 </a>
             </div>
             <div class="book-item">
@@ -415,13 +415,13 @@ https://templatemo.com/tm-588-ebook-landing
             <div class="book-item">
                 <a href="https://drive.google.com/uc?export=download&id=13-TeFMVvHIcBls7EfGKC8aP5sAOV-mjl" target="_blank">
                     <div class="book-cover" style="background-image: url('book4.jpg');"></div>
-                    <h3>Oride And Rejudice</h3>
+                    <h3>Pride And<br>Prejudice</h3>
                 </a>
             </div>
             <div class="book-item">
                 <a href="https://drive.google.com/uc?export=download&id=1WuI7vZDjKC8fvEx5Kwo9E4K5sXqUBLKh" target="_blank">
                     <div class="book-cover" style="background-image: url('book5.jpg');"></div>
-                    <h3>God Of Small Things</h3>
+                    <h3>God Of<br>Small Things</h3>
                 </a>
             </div>
             <div class="book-item">
@@ -433,7 +433,7 @@ https://templatemo.com/tm-588-ebook-landing
              <div class="book-item">
                 <a href="https://drive.google.com/uc?export=download&id=1_CrX4Kz5hb6Jf-ax26-d-ftkeIqgfphd" target="_blank">
                     <div class="book-cover" style="background-image: url('book7.jpg');"></div>
-                    <h3>Train To Bussan</h3>
+                    <h3>Train To<br>Pakistan</h3>
                 </a>
             </div>
             <div class="book-item">
