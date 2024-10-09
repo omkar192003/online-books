@@ -409,7 +409,7 @@ https://templatemo.com/tm-588-ebook-landing
              <div class="book-item">
                 <a href="https://drive.google.com/uc?export=download&id=17-KFjiGyHi5tk7cTw9G4sL-GZGhxA5aC" target="_blank">
                     <div class="book-cover" style="background-image: url('book3.jpg');"></div>
-                    <h3>Growing Up Spirituall</h3>
+                    <h3>Growing Up<br>Spiritually</h3>
                 </a>
             </div>
             <div class="book-item">
