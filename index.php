@@ -421,7 +421,7 @@ https://templatemo.com/tm-588-ebook-landing
             <div class="book-item">
                 <a href="https://drive.google.com/uc?export=download&id=1WuI7vZDjKC8fvEx5Kwo9E4K5sXqUBLKh" target="_blank">
                     <div class="book-cover" style="background-image: url('book5.jpg');"></div>
-                    <h3>Small Things</h3>
+                    <h3>God Of Small Things</h3>
                 </a>
             </div>
             <div class="book-item">
@@ -433,7 +433,7 @@ https://templatemo.com/tm-588-ebook-landing
              <div class="book-item">
                 <a href="https://drive.google.com/uc?export=download&id=1_CrX4Kz5hb6Jf-ax26-d-ftkeIqgfphd" target="_blank">
                     <div class="book-cover" style="background-image: url('book7.jpg');"></div>
-                    <h3>Train To Pakistan</h3>
+                    <h3>Train To Bussan</h3>
                 </a>
             </div>
             <div class="book-item">
